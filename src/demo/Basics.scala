@@ -1,6 +1,6 @@
 package demo
 
-object basics extends App {
+object Basics extends App {
 
   // Expressions
   println("Expressions\n==============")
